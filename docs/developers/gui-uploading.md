@@ -47,9 +47,4 @@ If you don't have login in config, you will be asked to login.
 ## Logging in
 So, you have an account.
 
-When prompted, enter your email and password.
-
-You will see
-```
-[OK] Auth created
-```
+//TODO
