@@ -3,14 +3,31 @@ sidebar_position: 5
 ---
 
 # Uploading from GUI
-Open horsygui
+Let's upload `shakalizator` app.
 
-Navigate to `upload` tab
+## Logging in
+So, you have an account.
+
+Now, you should log in.
+
+Navigate to `Account` tab.
+
+If you aren't logged in, you won't see your name in the top right corner.
+
+So, press the `Log in/Log out` button.
+
+You will see form
+
+![Login form](/img/developers/gui-uploading/login.jpg)
+
+Fill out the form and press `Log in`.
+
+## Uploading
+Navigate to `Upload` tab
 
 Fill the form
 
 ## Explanaiton of parameters
-Let's upload `shakalizator` app.
 
 Uploading looked like this:
 
@@ -41,10 +58,3 @@ So, you can add it here!
 Seventh option is main executable command. If your file is .exe, you can just add executable file name. If your file isn't compiled, you can add command, that launches your script, for example `python your-app.py` of `node your-app.js` etc.
 
 Press upload button.
-
-If you don't have login in config, you will be asked to login.
-
-## Logging in
-So, you have an account.
-
-//TODO
