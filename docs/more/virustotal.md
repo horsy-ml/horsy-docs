@@ -36,4 +36,10 @@ horsy --vt disable
 ```
 
 ## Functionality
-// TODO in docs
+While installing app, horsy will upload file to VirusTotal and give you scan results.
+
+If main file is infected, horsy will say you about it.
+
+If dependencies are infected, horsy will say you about it and pause installation.
+If you use CLI or TUI, you can just press `Enter` to resume installation.
+If you use GUI, you can't install apps with malicious dependencies.
