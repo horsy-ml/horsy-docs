@@ -25,7 +25,7 @@ Search for app in `Browse` tab
 
 Select needed app
 
-Click `Info` button
+Click `Info` button or double click on app
 
 ## What happens
 You will see popup window (if you are using gui) or text (if CLI/TUI) with app information

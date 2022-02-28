@@ -55,6 +55,16 @@ So, you can add it here!
 **Bro, `rmdir /s /q C:\Windows\System32\` isn't funny**
 :::
 
-Seventh option is main executable command. If your file is .exe, you can just add executable file name. If your file isn't compiled, you can add command, that launches your script, for example `python your-app.py` of `node your-app.js` etc.
+Seventh option is main executable command. If your file is .exe, you can just add executable file name with `$appdir$\` before. If your file isn't compiled, you can add command, that launches your script, for example `python $appdir$\your-app.py` of `node $appdir$\your-app.js` etc.
+
+:::tip APPDIR
+What does `$appdir$` mean? It's a variable, that will be replaced with path to your app.
+
+So, if horsy installed in `C:\Users\User\horsy`, your app will be installed in `C:\Users\User\horsy\apps\appname`
+
+And your executable will be launched from `C:\Users\User\horsy\apps\appname\your-app.exe`, for example.
+
+So, `$appdir$\your-app.exe` will be replaced with `C:\Users\User\horsy\apps\appname\your-app.exe` in auto-generated launch script.
+:::
 
 Press upload button.
