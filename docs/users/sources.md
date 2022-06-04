@@ -14,7 +14,7 @@ horsy source <app>
 ## TUI
 ```
 horsy
-2
+3
 <app>
 ```
 

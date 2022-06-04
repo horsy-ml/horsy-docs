@@ -10,7 +10,7 @@ horsy upload
 Or if you prefer TUI:
 ```
 horsy
-4
+5
 ```
 
 ## Logging in

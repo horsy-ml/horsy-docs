@@ -16,7 +16,7 @@ Query can be part of app name or description.
 # TUI
 ```
 horsy
-5
+6
 <query>
 ```
 
