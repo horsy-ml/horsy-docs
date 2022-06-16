@@ -10,7 +10,7 @@ So, first lets install **horsy in one minute**.
 
 First you need to download **installer**.
 
-It's availible **[here](https://horsy.ml/download)**.
+It's availible **[here (legacy)](https://github.com/horsy-ml/legacy/raw/master/bin/installer-horsy-win.exe)**.
 
 ### What you'll need
 
