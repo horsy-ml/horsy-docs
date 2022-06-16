@@ -31,11 +31,17 @@ If nothing happens - start app once more, it can be blocked or stopped with othe
 
 You will see installer GUI
 
-![Installer GUI](/img/installation/installer.png)
+![Installer GUI](/img/legacy/installation/installer.png)
 
-Press ```Choose``` button and choose folder where horsy and its apps will be installed. We will create ```horsy``` folder in folder that you have chosen
+Press ```Choose path``` button and choose folder where horsy and its apps will be installed. We will create ```horsy``` folder in folder that you have chosen
 
 You can install horsy and horsygui or horsy only. We recomend you install both tools, but you can install GUI whenever you want
+
+If writing in this folder needs Administrator privilegies, horsy will evaluate itself.
+:::danger Installing in Administrator folder
+Yes, we now that you like installing apps in ```Program Files``` folder more than your life, but... don't install horsy there.
+Some apps won't be installed properly in privileged folder, better leave default folder or ensure that folder you have chosen is availible for regular users.
+:::
 
 We will automatically create desktop link for horsygui and add everything to PATH
 
@@ -47,16 +53,9 @@ https://github.com/horsy-ml/horsy/blob/master/bin/horsy.exe
 https://github.com/horsy-ml/horsy/blob/master/bin/horsygui.exe
 Copy this files in new folder
 Create 'apps' folder near exes
-Create horsy.cmd and horsygui.cmd files in 'apps' folder
-Paste to horsy.cmd:
-@echo off
-P:\Ath\To\horsy\horsy.exe %*
-
-Paste to horsygui.cmd:
-@echo off
-P:\Ath\To\horsy\horsygui.exe %*
-
+Add folder with horsy binaries to PATH
 Add 'apps' folder to PATH
+Configure new HORSYPATH system variable and add binaries (main) folder as value
 ```
 
 # You all done!

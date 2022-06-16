@@ -12,9 +12,13 @@ Now, you should log in.
 
 Navigate to `Account` tab.
 
-If you aren't logged in, you won't see your name in the top corner.
+If you aren't logged in, you won't see your name in the top right corner.
 
-![Login form](/img/developers/gui-uploading/login.jpg)
+So, press the `Log in/Log out` button.
+
+You will see form
+
+![Login form](/img/legacy/developers/gui-uploading/login.jpg)
 
 Fill out the form and press `Log in`.
 
@@ -27,9 +31,9 @@ Fill the form
 
 Uploading looked like this:
 
-![Filled form](/img/developers/gui-uploading/form-filled.png)
+![Filled form](/img/legacy/developers/gui-uploading/form-filled.png)
 
-So, first option is project name. It should be something like `yourapp`, `your-app`, `your_app`, 'yourapp5', etc.
+So, first option is project name. It should be something like `yourapp`, `your-app`, `your_app`, etc.
 
 Second option is project description. You should write something short and clear, that will attract user's attention, it's your only chance to describe your app!
 
