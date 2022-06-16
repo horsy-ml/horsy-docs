@@ -34,14 +34,14 @@ So, for example, you wrote a python (or other not compiled) file. You don't whan
 
 Go to Python (or NodeJS, etc.) official website and copy installer link. You should add it to dependencies in horsy.
 
-![Download Python](/img/developers/file-req/zxcpython.png)
-![Download NodeJS](/img/developers/file-req/nodejszxxxc.png)
+![Download Python](/img/legacy/developers/file-req/zxcpython.png)
+![Download NodeJS](/img/legacy/developers/file-req/nodejszxxxc.png)
 
 ## Uploading 
 horsy doesn't keep your files, so you need to upload them to any servers.
 
 For example, it can be GitHub. Copy link to exe in `Download` button, if on GitHub.
 
-![Download](/img/developers/file-req/dl-button.png)
+![Download](/img/legacy/developers/file-req/dl-button.png)
 
 Link to executable should end on `.exe` or `.zip`

@@ -12,7 +12,7 @@ To increase account security, we don't provide changing your nickname option and
 ## Changing email
 In email field, type your new email address and press `Change e-mail` button.
 
-![Changing email](/img/developers/changing-credentials/email.png)
+![Changing email](/img/legacy/developers/changing-credentials/email.png)
 
 You will receive an email with confirmation link.
 
@@ -21,7 +21,7 @@ If you don't have access to your email or you have forgotten your password, you 
 ## Changing password
 To change your password, type old and new password and press `Change password` button.
 
-![Changing password](/img/developers/changing-credentials/password.png)
+![Changing password](/img/legacy/developers/changing-credentials/password.png)
 
 If old pass doesn't match with passowrd in config file, you will get an error.
 

@@ -31,7 +31,7 @@ If nothing happens - start app once more, it can be blocked or stopped with othe
 
 You will see installer GUI
 
-![Installer GUI](/img/installation/installer.png)
+![Installer GUI](/img/legacy/installation/installer.png)
 
 Press ```Choose path``` button and choose folder where horsy and its apps will be installed. We will create ```horsy``` folder in folder that you have chosen
 

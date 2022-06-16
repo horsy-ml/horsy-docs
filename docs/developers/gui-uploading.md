@@ -18,7 +18,7 @@ So, press the `Log in/Log out` button.
 
 You will see form
 
-![Login form](/img/developers/gui-uploading/login.jpg)
+![Login form](/img/legacy/developers/gui-uploading/login.jpg)
 
 Fill out the form and press `Log in`.
 
@@ -31,7 +31,7 @@ Fill the form
 
 Uploading looked like this:
 
-![Filled form](/img/developers/gui-uploading/form-filled.png)
+![Filled form](/img/legacy/developers/gui-uploading/form-filled.png)
 
 So, first option is project name. It should be something like `yourapp`, `your-app`, `your_app`, etc.
 

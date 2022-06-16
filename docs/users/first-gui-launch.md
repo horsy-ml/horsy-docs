@@ -13,7 +13,7 @@ Whis will run ```horsygui.exe``` with console, and if you have default terminal,
 
 If you launch it first time, you will empty installed window, something like this:
 
-![Empty installed window](/img/for-users/first-gui-launch/empty-installed.png)
+![Empty installed window](/img/legacy/for-users/first-gui-launch/empty-installed.png)
 
 If you see strange laggs - don't worry. If noone uses server, it stops itself, so now it loads, it will take several seconds.
 
@@ -25,11 +25,11 @@ Click ```Browse``` tab.
 
 In search box, type app name. We use `Algolia` for searching, so you can type two-three letters, search by description and even dependencies.
 
-![Search](/img/for-users/first-gui-launch/kotosearch.png)
+![Search](/img/legacy/for-users/first-gui-launch/kotosearch.png)
 
 Press `Search` button.
 
-![Found](/img/for-users/first-gui-launch/found.png)
+![Found](/img/legacy/for-users/first-gui-launch/found.png)
 
 Now, select `kotogamescam` app and press `Install` button
 
